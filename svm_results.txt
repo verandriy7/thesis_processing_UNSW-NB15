@@ -1,0 +1,6 @@
+Accuracy: 92.94%
+Class 0 (Benigno): Precision = 0.8483, Recall = 0.7809, F1-score = 0.8132
+Class 1 (Attacco): Precision = 0.9473, Recall = 0.9658, F1-score = 0.9565
+Confusion Matrix:
+[[ 2327   653]
+ [  416 11745]]
