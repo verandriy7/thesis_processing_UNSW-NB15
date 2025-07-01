@@ -51,6 +51,8 @@ Tutti i contenuti sono utilizzabili a scopo di verifica, replicazione o approfon
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-Il contenuto di questa repository è stato pubblicato esclusivamente per **fini accademici**. 
+Il contenuto di questa repository è stato pubblicato esclusivamente per **fini accademici e documentali**.  
+Tutti i file inclusi rappresentano il lavoro originale svolto per la redazione della tesi di laurea e sono resi disponibili **unicamente a titolo consultativo**.  
+È espressamente vietata qualsiasi forma di **replicazione, distribuzione o utilizzo per scopi diversi da quelli di verifica accademica**.
