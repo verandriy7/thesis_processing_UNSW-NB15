@@ -1,9 +1,9 @@
-# Dataset, modelli e risultati sperimentali - UNSW-NB15 e CSE-CIC-IDS2018
+# Dataset, modelli e risultati sperimentali - UNSW-NB15
 
-Questa repository contiene i **file utilizzati e generati** durante la sperimentazione condotta per la tesi di laurea triennale:  
+Questa repository contiene i **file utilizzati e generati** durante la sperimentazione condotta sul dataset UNSW-NB15 per la tesi di laurea triennale:  
 **"IDENTIFICAZIONE DI ATTACCHI WEB CON INTELLIGENZA ARTIFICIALE"** di Veronica Tavazzi (12247A).
 
-I file inclusi documentano l'intero flusso operativo di una pipeline di rilevamento delle intrusioni basata sul dataset **UNSW-NB15** e **CSE-CIC-IDS2018**, dalla fase di preprocessing all’addestramento e valutazione dei modelli supervisionati.  
+I file inclusi documentano l'intero flusso operativo di una pipeline di rilevamento delle intrusioni basata sul dataset **UNSW-NB15**, dalla fase di preprocessing all’addestramento e valutazione dei modelli supervisionati.  
 La repository è suddivisa in tre sezioni principali:
 - Dataset originali, puliti e preprocessati.
 - Modelli addestrati in formato serializzato.
